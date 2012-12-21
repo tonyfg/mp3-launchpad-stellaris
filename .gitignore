@@ -1,3 +1,7 @@
+# Binary output directories
+/Debug
+/Release
+
 # Object files
 *.o
 
